@@ -12,14 +12,18 @@ The data will allow us to study the dimensions and the ionization degree qualita
 ## Brainstorm
 
 - Tamanho da nébula
+
+- Magnitude de Superficie e Magnitude aparente
 - Cores da nébula
 - Grau de Ionização e estrutura
-- Magnitude de Superficie e Magnitude aparente
 - Temperatura em algumas regiões (temperature gradient)
-- Spectral energy distribution (SED)
-- Descrição morfológica
-- White dwarf in the center
-- Radiation
-- Velocidade de Expansão (pesquisar)
 - Brightness distribution 
 - Evolutionary state → ionization structure and relative strengths of [O III] vs Hα can indicate the temperature and luminosity of the central star.
+- Spectral energy distribution (SED)
+
+- White dwarf in the center
+
+- Descrição morfológica
+- Radiation
+- Velocidade de Expansão (pesquisar)
+
